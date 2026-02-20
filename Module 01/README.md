@@ -16,7 +16,8 @@ In this example, the analytical system is divided into three layers of architect
 
 ## Excel Dashboard
 
-![Excel Dashboard of Superstore.xlsx](https://github.com/brabus000/DE-101/blob/main/Module%2001/images/dash1.png)
+Excel Dashboard of Superstore.xlsx
+![](https://github.com/brabus000/DE-101/blob/main/Module%2001/images/dash1.png)
 ![](https://github.com/brabus000/DE-101/blob/main/Module%2001/images/dash2.png)
 
 
