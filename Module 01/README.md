@@ -15,3 +15,8 @@ In this example, the analytical system is divided into three layers of architect
 **Business Layer:** Interfaces through which users (marketers, financiers) access data. These are BI tools (Tableau, Power BI, Excel) and SQL queries.
 
 ## Excel Dashboard
+
+![Excel Dashboard of Superstore.xlsx](https://github.com/brabus000/DE-101/blob/main/Module%2001/images/dash1.png)
+![](https://github.com/brabus000/DE-101/blob/main/Module%2001/images/dash2.png)
+
+
