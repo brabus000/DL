@@ -20,5 +20,6 @@ Excel Dashboard of Superstore.xlsx
 
 ![](https://github.com/brabus000/DE-101/blob/main/Module%2001/images/dash1.png)
 ![](https://github.com/brabus000/DE-101/blob/main/Module%2001/images/dash2.png)
+[Download Dashboard](https://github.com/brabus000/DE-101/blob/main/Module%2001/excel/Sample%20-%20Superstore.xlsx)
 
 
