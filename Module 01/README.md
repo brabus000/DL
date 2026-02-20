@@ -6,7 +6,7 @@ Analytical Solution Architecture made in draw.io
 
 ![Analytical Solution Architecture](https://github.com/brabus000/DE-101/blob/main/Module%2001/images/Analytical_Solution_Architecture.drawio.png)
 
-In this example, the analytical system is divided into three layers of architecture.:
+In this example, the analytical system is divided into three layers of architecture:
 
 **Source layer:** Business systems where data is generated (order databases, CRM, Google Analytics, warehouse systems). These systems are called OLTP - they work fast and are designed for transactions, but not for analytics. 
 
